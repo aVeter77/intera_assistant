@@ -27,7 +27,7 @@ BITRIX24_TOKEN - токен Битрикс 24
 ```
 2. Установите зависимости из файла `requirements.txt`
 ```
-pip install -r requirements.tx
+pip install -r requirements.txt
 ```
 3. Запусте `models.py` для создания БД
 ```
